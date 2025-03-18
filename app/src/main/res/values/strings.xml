@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Real-Estate</string>
+    <string name="splash_main_1">Perfect Choice\nFor Your Future</string>
+    <string name="image_of_a_house">image of a house</string>
+    <string name="headline">Find Your Dream Home with a \nTap – Your Real Estate Companion!</string>
+    <string name="button">Get Started</string>
 </resources>
